@@ -40,6 +40,3 @@ console.log(`Tog bort pokemon: ${removedPokemon}`);
 let positionToRemove = pokemons.indexOf('Bulbasaur');
 pokemons.splice(positionToRemove, 1);
 console.log(pokemons);
-
-
-
