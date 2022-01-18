@@ -15,3 +15,5 @@ Object: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global
 ## Videor
 
 ## Inspelningar
+
+https://funet-my.sharepoint.com/:f:/g/personal/christoffer_wallenberg_folkuniversitetet_se/EhjkwcRu1YFEici3Ey6cbisBHbj0q7KKGqNxTxErPE27TA?e=pDAgFS
